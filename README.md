@@ -12,7 +12,12 @@ This project is hiring task from Abjjad company it is just simple post tweets an
 Project is created with:
 * ASP.Net Core V 3.1 framework
 * Xunit
-* MongoDB
+* MongoDB 
+
+## Technical Decisions
+I Choosed mogodb because:
+1- The Project doesn't contain a lot of joins -relations between entities-.
+2- Main Business of the project depends on the text and manipulates a lot of big data.
 	
 ## Setup
 To run this project, Clone it first then:
