@@ -22,8 +22,8 @@ To run this project, Clone it first then:
 2- Set the connection string of your database in appsettings.json file.
 3- Use the command to run it from termaial or dirict from visual stuido  
 ```
-dotnet build
-dotnet run
+$ dotnet build
+$ dotnet run
 ```
 
 
@@ -32,5 +32,5 @@ dotnet run
 2- Open the terminal and write the following commands:
 ```
 $ docker-compose build
-docker-compose run
+$ docker-compose run
 ```
